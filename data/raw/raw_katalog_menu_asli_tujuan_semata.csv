@@ -1,0 +1,135 @@
+Kode_Menu,Nama_Menu,Kategori_Menu,Sub_Kategori,Harga_Jual,Komposisi_Bahan,Karakter_Rasa,Badge_Menu_Baru,Indikasi_Terlaris,Catatan_Khusus_Owner
+mn-001,Coffee Latte,Kopi,,12/16,"Espresso, susu segar, gula cair","Kopi, Creamy, Manis Seimbang",false,,Mengandung Kafein
+mn-001,Coffee Latte,  Coffee  ,Kopi Susu,12 / 16rb,"Espresso, susu segar, gula cair","Kopi, Creamy, Manis Seimbang",,-,Mengandung Kafein; Duplikat dari Papan Cup Visual
+mn-002,Coffee Milo,COFEE,Kopi Susu,14/18,,"Kopi, Creamy, Manis Seimbang",-,No,Mengandung Kafein
+MN-003,  bluemint latte ,COFEE,Kopi Susu,Rp 16/20k,,,false,,Mengandung Kafein
+MN-004,Tujuan Signature,Kopi,Kopi Susu,14/18,,"kopi, creamy, manis seimbang",,TRUE,Mengandung Kafein
+MN-004,Tujuan Signature ,Kopi,Kopi Susu,14 / 18rb,,"kopi, creamy, manis seimbang",,TRUE,Mengandung Kafein
+MN-005,Vanilla Latte,coffee,kopi susu,14/18,"Espresso, sirup vanilla, susu full cream","Kopi, Creamy, Manis Seimbang",false,0,Mengandung Kafein
+MN-006,Mocha Latte,Kopi,Kopi Susu,Rp 16/20k,"Espresso, cokelat, susu full cream","kopi, creamy, manis seimbang",No,,Mengandung Kafein
+MN-007,Butterscoth Latte,coffee,Kopi Susu,14/18,"Espresso, sirup butterscotch, susu segar","Kopi, Creamy, Manis Seimbang",Tidak,0,Mengandung Kafein
+mn008,Caramel Machiato,Kopi,Kopi Susu,16 / 20rb,"Espresso, saus karamel, susu full cream","Kopi, Creamy, Manis Seimbang",,0,Mengandung Kafein
+MN-009,Long Black,black,kopi hitam / espresso,10 / 14 / 18rb,"Double shot espresso, air mineral","kopi pahit, ringan, segar",No,No,Mengandung Kafein
+mn-010,OrangeCano,Black Coffee,Kopi Hitam / Espresso,12 / 16 / 20rb,"Espresso, konsentrat jeruk segar","Kopi Pahit, Asam Buah Segar",-,No,Mengandung Kafein
+MN011,Limenucano,Black Coffee,,12/16/20,"Espresso, perasan jeruk nipis/lime","Kopi Pahit, Asam Buah Segar",0,,Mengandung Kafein
+MN-012,Peachcano,BLACK,Kopi Hitam / Espresso,12 / 16 / 20rb,"Espresso, sirup peach","Kopi Pahit, Asam Buah Segar",Tidak,Tidak,Mengandung Kafein
+MN-013,Redbericano,BLACK,Kopi Hitam / Espresso,12/16/20,"Espresso, sirup redberry","Kopi Pahit, Asam Buah Segar",false,0,Mengandung Kafein
+mn-014,CoconutReso,BLACK ,,12/16/20,"Espresso, air kelapa / sirup kelapa","Kopi Pahit, Ringan, Segar",Tidak,-,Mengandung Kafein
+mn-015,Sparklingcano,BLACK,,10/14/18,"Espresso, air soda sparkling","Kopi Pahit, Ringan, Segar",No,-,Mengandung Kafein
+mn-015,Sparklingcano ,BLACK,,10/14/18,"Espresso, air soda sparkling","Kopi Pahit, Ringan, Segar",No,-,Mengandung Kafein
+MN-016,LongBhoney,black,Kopi Hitam / Espresso,12/16/20,"Espresso, madu murni","Kopi Pahit, Manis Madu",-,-,Mengandung Kafein
+MN-017,Teh Solo,teh,Minuman Teh,4rb,"Daun teh tubruk khas Solo, gula","Teh Wangi, Manis Ringan",,Best Seller,Tersedia untuk Dine-in & Takeaway
+MN-018,Teh Hijau,teh,Minuman Teh,5rb,"Daun teh hijau, gula","Teh Wangi, Manis Ringan",0,,Tersedia untuk Dine-in & Takeaway
+MN019,Teh Thailand,TEH,Minuman Teh,5rb,"Thai tea seduh, gula","Teh Wangi, Manis Ringan",0,,Tersedia untuk Dine-in & Takeaway
+MN-020,Lychee,TEH,,8/10,"Teh hitam, sirup leci, buah leci","Teh Segar, Manis Buah / Asam",Tidak,Tidak,Tersedia untuk Dine-in & Takeaway
+MN021,Lemon,Teh ,Minuman Teh,8rb,"Teh hitam, perasan lemon segar",-,false,No,Tersedia untuk Dine-in & Takeaway
+mn-022,  telang ,Teh ,Minuman Teh,5rb,Seduhan bunga telang alami,"Teh Wangi, Manis Ringan",,-,Tersedia untuk Dine-in & Takeaway
+MN-023,Rosella,TEH,Minuman Teh,5rb,N/A,"teh wangi, manis ringan",Tidak,No,Tersedia untuk Dine-in & Takeaway
+mn-024,  telang/rosella lemon ,Teh ,Minuman Teh,8rb,"Seduhan telang/rosella, perasan lemon","Teh Segar, Manis Buah / Asam",-,No,Tersedia untuk Dine-in & Takeaway
+MN-025,Usucha,MATCHA,Minuman Matcha,14/18,"Pure matcha Jepang, air/susu","matcha pekat, umami, creamy",Tidak,Tidak,Tersedia untuk Dine-in & Takeaway
+MN-026,Nutela Matcha Latee,MATCHA,Minuman Matcha,16/20,"Matcha, selai cokelat hazelnut Nutella, susu","Matcha Earthy, Cokelat Manis, Creamy",,,Tersedia untuk Dine-in & Takeaway
+MN-027,  matcha umami latte ,matcha,Minuman Matcha,16/20,"Matcha umami grade, susu creamy","Matcha Pekat, Umami, Creamy",-,0,Tersedia untuk Dine-in & Takeaway
+mn-028,Blue Japanese Matcha,Matcha ,Minuman Matcha,16/20,,,,,Tersedia untuk Dine-in & Takeaway
+mn-028,Blue Japanese Matcha ,Matcha ,Minuman Matcha,16 / 20rb,,,,,Tersedia untuk Dine-in & Takeaway
+mn-029,  coconut matcha ,Matcha ,Minuman Matcha,16/20,"Matcha, santan/kelapa segar","matcha pekat, umami, creamy",0,,Tersedia untuk Dine-in & Takeaway
+mn-030,Strawbery Matcha,MATCHA,,16/20,"Matcha, selai/buah strawberry, susu",-,false,,Tersedia untuk Dine-in & Takeaway
+MN-031,  matcha pink latte ,matcha,Minuman Matcha,Rp 14/18k,,"Matcha, Manis Segar Buah",0,0,Tersedia untuk Dine-in & Takeaway
+MN-032,Orange Matcha,MATCHA,Minuman Matcha,14/18,"Matcha, konsentrat jeruk segar","Matcha, Manis Segar Buah",false,No,Tersedia untuk Dine-in & Takeaway
+mn-033,Matcha Milk,creamy,Minuman Creamy / Non-Kopi,5/10/15,"Bubuk matcha, susu creamy","non-kopi, manis, creamy",0,Tidak,Aman untuk Anak & Remaja
+mn-034,Red Velvet  Milk,creamy,Minuman Creamy / Non-Kopi,5/10/15,"Bubuk red velvet, susu creamy","Non-Kopi, Manis Buah, Creamy",false,0,Ramah Anak (Tanpa Kafein & Tidak Pedas)
+MN-035,  taro milk ,creamy,Minuman Creamy / Non-Kopi,5/10/15,"Bubuk taro, susu creamy",,Tidak,-,Ramah Anak (Tanpa Kafein & Tidak Pedas)
+mn-036,Manggo Milk,CREAMY DRINK,Minuman Creamy / Non-Kopi,5/10/15,"Perisa mangga, susu creamy","Non-Kopi, Manis Buah, Creamy",No,No,Aman untuk Anak & Remaja
+mn-037,Capucino Milk,Creamy ,Minuman Creamy / Non-Kopi,5/10/15,"Cappuccino, susu creamy","Non-Kopi, Manis, Creamy",false,No,Aman untuk Anak & Remaja
+MN038,Coklat Milk,CREAMY DRINK,Minuman Creamy / Non-Kopi,Rp 5/10/15k,"Cokelat manis, susu creamy","Non-Kopi, Cokelat Kental, Manis Creamy",0,best seller,Ramah Anak (Tanpa Kafein & Tidak Pedas)
+MN-039,Thaitea Milk,Creamy ,Minuman Creamy / Non-Kopi,5/10/15,"Teh Thailand, susu creamy","Non-Kopi, Manis, Creamy",,,Aman untuk Anak & Remaja
+MN-040,  milktea ,CREAMY DRINK,minuman creamy / non-kopi,5/10/15,"Teh hitam, susu creamy","Non-Kopi, Manis, Creamy",-,-,Aman untuk Anak & Remaja
+MN041,Coklat Kuwentel,COKLAT & 2TONE,Minuman Creamy / Non-Kopi,Rp 12/16k,"Cokelat kental pekat spesial, susu full cream","Non-Kopi, Cokelat Kental, Manis Creamy",false,best seller,Promo All Variant Coklat Free Ice Tea (Size Large)
+MN-041,  coklat kuwentel ,COKLAT & 2TONE,Minuman Creamy / Non-Kopi,12/16,"Cokelat kental pekat spesial, susu full cream","Non-Kopi, Cokelat Kental, Manis Creamy",Tidak,TRUE,Duplikat dari Papan Cup Visual
+MN-042,  dutch choco ,COKLAT & 2TONE,Minuman Creamy / Non-Kopi,12 / 16rb,"Bubuk kakao Belanda, susu segar","Non-Kopi, Cokelat Kental, Manis Creamy",-,0,Tersedia untuk Dine-in & Takeaway
+MN-042,dutch choco ,COKLAT & 2TONE,Minuman Creamy / Non-Kopi,Rp 12/16k,"Bubuk kakao Belanda, susu segar","Non-Kopi, Cokelat Kental, Manis Creamy",-,0,Tersedia untuk Dine-in & Takeaway
+mn-043,Coklat Pink,Coklat 2Tone,,14/18,N/A,"Non-Kopi, Cokelat Kental, Manis Creamy",No,0,Tersedia untuk Dine-in & Takeaway
+MN-044,Oreo Choco Milk,COKLAT & 2TONE,,14/18,"Cokelat, remahan biskuit Oreo, susu","Non-Kopi, Cokelat Kental, Manis Creamy",0,-,Ramah Anak (Tanpa Kafein & Tidak Pedas)
+MN-045,Oreo Blue Milk,COKLAT & 2 TONE,Minuman Creamy / Non-Kopi,14 / 18rb,"Susu biru, remahan Oreo","Non-Kopi, Manis, Creamy",0,,Ramah Anak (Tanpa Kafein & Tidak Pedas)
+MN046,Green Pink,coklat & 2tone,,12 / 16rb,Kombinasi 2 warna hijau & pink creamy,"non-kopi, manis, creamy",No,0,Tersedia untuk Dine-in & Takeaway
+MN047,Butterfly Strawberry,Coklat 2Tone,Minuman Creamy / Non-Kopi,12/16,"Ekstrak bunga telang, susu strawberry","Non-Kopi, Manis Buah, Creamy",,No,Tersedia untuk Dine-in & Takeaway
+mn-048,Thai Strawberry,COKLAT & 2TONE,Minuman Creamy / Non-Kopi,Rp 12/16k,"Thai tea, susu strawberry","non-kopi, manis buah, creamy",false,0,Tersedia untuk Dine-in & Takeaway
+mn-049,Redfresh,SODA,Minuman Segar / Dingin,12/16,"Air soda, sirup merah segar","Non-Kopi, Segar, Asam Manis",false,0,Tersedia untuk Dine-in & Takeaway
+mn-050,Lime Orange,soda,Minuman Segar / Dingin,12/16,,"Non-Kopi, Segar, Asam Manis",,0,Tersedia untuk Dine-in & Takeaway
+mn-050,Lime Orange,SODA,Minuman Segar / Dingin,12/16,"Air soda, jeruk nipis & jeruk manis","Non-Kopi, Segar, Asam Manis",No,0,Duplikat dari Papan Cup Visual
+MN-051,Queen Melon,soda,Minuman Segar / Dingin,12/16,"Air soda, sirup melon","Non-Kopi, Segar, Asam Manis",Tidak,No,Tersedia untuk Dine-in & Takeaway
+mn-052,  peach lime ,Soda ,Minuman Segar / Dingin,12 / 16rb,"Air soda, sirup peach & lime","Non-Kopi, Segar, Asam Manis",-,Tidak,Tersedia untuk Dine-in & Takeaway
+mn-053,Ocean Blue,Soda ,Minuman Segar / Dingin,Rp 12/16k,,"Non-Kopi, Segar, Asam Manis",-,No,Tersedia untuk Dine-in & Takeaway
+mn-054,Butterfly lime,soda,Minuman Segar / Dingin,14/18,"Air soda, bunga telang, jeruk nipis","Non-Kopi, Segar, Asam Manis",0,Tidak,Tersedia untuk Dine-in & Takeaway
+MN-055,Greentea Lime,Soda ,Minuman Segar / Dingin,Rp 12/16k,"Air soda, teh hijau, jeruk nipis",,-,,Tersedia untuk Dine-in & Takeaway
+MN-056,Orange Honey,Soda ,minuman segar / dingin,14/18,"Air soda, jeruk, madu","non-kopi, segar, asam manis",false,0,
+mn-057,Topping Crunch,ADDT,Topping & Add-on,+2rb,Tambahan topping crunch renyah,Tambahan Topping / Ekstra,,-,Tersedia untuk Dine-in & Takeaway
+MN-058,Topping Glaze,TOPPING,,+2rb,Tambahan topping glaze manis,tambahan topping / ekstra,-,,Tersedia untuk Dine-in & Takeaway
+MN-059,Extra shot espresso,ADDT,Topping & Add-on,+5.000,Tambahan 1 shot espresso kopi,Tambahan Topping / Ekstra,,,
+MN-060,Extra Ice,ADDT,Topping & Add-on,+2.000,Tambahan es batu ekstra,Tambahan Topping / Ekstra,Tidak,-,Tersedia untuk Dine-in & Takeaway
+mn-061,Manuka Latte,COFEE,kopi susu,Rp 14/18k,"Espresso, madu manuka, susu segar","Kopi, Creamy, Manis Seimbang",Tidak,No,Mengandung Kafein
+MN-062,  aren latte ,  Coffee  ,kopi susu,14/18,"Espresso, gula aren cair, susu segar","Kopi, Creamy, Manis Seimbang",false,Ya,Mengandung Kafein
+MN-063,Taro coffee,  Coffee  ,,14 / 18rb,"Espresso, bubuk taro, susu segar","kopi, creamy, manis seimbang",false,Tidak,Mengandung Kafein
+mn-064,Lime Manuka,AMERICANO SERIES,Kopi Hitam / Espresso,12/16/20,"Espresso, perasan lime, madu manuka",-,false,-,Mengandung Kafein
+mn-064,Lime Manuka ,AMERICANO SERIES,Kopi Hitam / Espresso,12 / 16 / 20rb,"Espresso, perasan lime, madu manuka",-,false,-,Mengandung Kafein
+mn-065,Strawberry hibiscus,BIG TEA,Minuman Teh,8 / 10rb,"Teh bunga hibiscus, sirup strawberry","Teh Segar, Manis Buah / Asam",-,0,Tersedia untuk Dine-in & Takeaway
+MN-066,  lychee love ,REFRESHER,minuman segar / dingin,12/16,Minuman segar rasa leci,"Non-Kopi, Segar, Asam Manis",-,No,Tersedia untuk Dine-in & Takeaway
+MN-067,  sunset mix ,REFRESHER,minuman segar / dingin,12/16,Mocktail segar gradasi jeruk & berry,"Non-Kopi, Segar, Asam Manis",0,Tidak,Tersedia untuk Dine-in & Takeaway
+MN-068,Greentea Lemon,refresher,Minuman Segar / Dingin,12/16,"Teh hijau segar, perasan lemon","Non-Kopi, Segar, Asam Manis",,,
+mn-069,Orange Manuka,REFRESHER,Minuman Segar / Dingin,12 / 16rb,"Jeruk segar, madu manuka","Non-Kopi, Segar, Asam Manis",false,-,Tersedia untuk Dine-in & Takeaway
+mn-070,Brown Milk,non coffee,Minuman Creamy / Non-Kopi,12 / 16rb,"Susu segar, gula aren/brown sugar","Non-Kopi, Manis, Creamy",,Tidak,Tersedia untuk Dine-in & Takeaway
+mn-071,Coklat Matcha,non coffee,minuman creamy / non-kopi,Rp 14/18k,Perpaduan cokelat kental & matcha,"Non-Kopi, Cokelat Kental, Manis Creamy",0,0,Tersedia untuk Dine-in & Takeaway
+MN-072,Dimsum Keju,snack & eatery,Cemilan / Snack,Rp18000,Dimsum ayam isi 5 dengan saus keju leleh (eceran 2pcs Rp8.000),"Gurih, Creamy, Mengenyangkan",-,Best Seller,Tersedia untuk Dine-in & Takeaway
+MN-073,  lumpia ubi coklat ,SNACK & EATERY ,,only 18.000,Lumpia renyah isi ubi ungu & cokelat lumer (isi 5),"Manis, Lembut / Renyah",false,-,Tersedia untuk Dine-in & Takeaway
+MN-074,Dimsum Kuah Keju Chili Oil,Snack,,only 12.000,Dimsum isi 3 dengan kuah keju & chili oil pedas gurih,"Pedas, Gurih, Berbumbu",false,No,Tersedia untuk Dine-in & Takeaway
+MN-075,  cireng kuah keju chili oil ,Snack,Cemilan / Snack,only 12.000,Cireng isi 2 dengan kuah keju & chili oil,"Pedas, Gurih, Berbumbu",true,,DICORET SILANG (X) / Tidak Tersedia Sementara
+MN-076,Pangsit Kuah Leukoh,Snack,Cemilan / Snack,Rp12000,Pangsit isi ayam dengan kuah leukoh pedas gurih,"Pedas, Gurih, Berbumbu",1,No,DICORET SILANG (X) / Tidak Tersedia Sementara
+MN-077,Mac & Cheese Original,SNACK & EATERY,Cemilan / Snack,12rb,Makaroni dengan saus keju creamy original,"Gurih, Creamy, Mengenyangkan",false,No,Ramah Anak (Tanpa Kafein & Tidak Pedas)
+mn-078,  mac & cheese chicken ,SNACK & EATERY ,Cemilan / Snack,15k,Makaroni saus keju creamy dengan topping ayam,"Gurih, Creamy, Mengenyangkan",0,0,Ramah Anak (Tanpa Kafein & Tidak Pedas)
+mn-078,mac & cheese chicken ,SNACK & EATERY ,Cemilan / Snack,Rp15000,Makaroni saus keju creamy dengan topping ayam,"Gurih, Creamy, Mengenyangkan",0,0,Ramah Anak (Tanpa Kafein & Tidak Pedas)
+mn-079,Mac & Cheese Special,snack & eatery,Cemilan / Snack,18k,Makaroni saus keju porsi spesial lengkap,"Gurih, Creamy, Mengenyangkan",-,0,Tersedia untuk Dine-in & Takeaway
+mn-080,Otak2 Chili Oil,snack & eatery,Cemilan / Snack,10000,Otak-otak goreng dengan baluran chili oil pedas,"Pedas, Gurih, Berbumbu",No,Tidak,
+MN-081,Martabk Tahu,SNACK & EATERY ,,only 18.000,Martabak tahu isi 5 pcs (eceran 2 pcs Rp8.000),"Gurih, Renyah",-,Tidak,Tersedia untuk Dine-in & Takeaway
+MN-082,  basreng leukoh chili oil ,snack & eatery,,Rp10000,Basreng renyah bumbu leukoh chili oil,"Pedas, Gurih, Berbumbu",-,Tidak,Tersedia untuk Dine-in & Takeaway
+MN-083,Cireng Galaxy,SNACK & EATERY,Cemilan / Snack,15rb,Cireng warna-warni isi 6 pcs,"Gurih, Renyah",,,DICORET SILANG (X) / Tidak Tersedia Sementara
+MN-084,Spagheti Khas Tujuan Bolognese,Main Course,Makanan Berat,"Rp 15.000,-",Pasta spaghetti dengan saus bolognese daging,"Gurih, Creamy, Mengenyangkan",true,-,Ramah Anak (Tanpa Kafein & Tidak Pedas)
+mn-085,Spaghetti Khas Tujuan Aglio Olio,MAIN COURSE,Makanan Berat,18000,Pasta spaghetti tumis bawang putih & chili flakes,"Gurih, Renyah",Ya,0,Tersedia untuk Dine-in & Takeaway
+MN-086,Burger Platter,MAIN COURSE,Makanan Berat,18000,Black burger beef patty dengan kentang goreng,"Gurih, Creamy, Mengenyangkan",Baru!,0,
+MN-087,Sandwich Lezat & Bergizi,SNACK & EATERY ,,12rb,,"Gurih, Renyah",true,Tidak,Ramah Anak (Tanpa Kafein & Tidak Pedas)
+MN-088,Burger Beef Patty,Main Course,,Rp12000,,"Gurih, Creamy, Mengenyangkan",true,,Ramah Anak (Tanpa Kafein & Tidak Pedas)
+MN-089,Mie Jebew Nampol,MAIN COURSE,makanan berat,10rb,Mie pedas khas jebew dengan chili oil,"Pedas, Gurih, Berbumbu",Ya,,Tersedia untuk Dine-in & Takeaway
+MN090,Roti Canai Maryam,SNACK & EATERY,Cemilan / Snack,12rb,Roti canai maryam lembut manis/gurih,"Manis, Lembut / Renyah",YES,Tidak,Tersedia untuk Dine-in & Takeaway
+mn-091,Corn Ribs,snack & eatery,Cemilan / Snack,12.000,Jagung bakar/goreng potong ribs berbumbu isi 5,"Gurih, Renyah",,No,Tersedia untuk Dine-in & Takeaway
+mn-092,Kentang Reguler,SNACK & EATERY ,Cemilan / Snack,10rb,Kentang goreng renyah dengan saus sambal/tomat,"Gurih, Renyah",1,Tidak,Ramah Anak (Tanpa Kafein & Tidak Pedas)
+mn-093,Mix Platter Reguler,Snack,cemilan / snack,12000,"Kombinasi kentang goreng, sosis, nugget, dan saus","Gurih, Creamy, Mengenyangkan",YES,Best Seller,Ramah Anak (Tanpa Kafein & Tidak Pedas)
+mn-093,Mix Platter Reguler ,Snack,cemilan / snack,Rp12000,"Kombinasi kentang goreng, sosis, nugget, dan saus","Gurih, Creamy, Mengenyangkan",YES,Best Seller,Ramah Anak (Tanpa Kafein & Tidak Pedas)
+MN094,Keju Aroma,snack & eatery,Cemilan / Snack,10.000,Lumpia keju aroma renyah manis isi 8,"Gurih, Creamy, Mengenyangkan",,Tidak,Ramah Anak (Tanpa Kafein & Tidak Pedas)
+MN-095,Mango Yakult,YAKULT SERIES,Minuman Segar / Dingin,10.000/13.000,"Yakult, sirup/buah mangga segar (Regular/Large)","Non-Kopi, Segar, Asam Manis",false,Tidak,Aman untuk Anak & Remaja
+MN-096,Strawberry Yakult,yakult series,minuman segar / dingin,Rp 10.000/13.000k,"Yakult, sirup/buah strawberry (Regular/Large)","Non-Kopi, Segar, Asam Manis",,Tidak,Aman untuk Anak & Remaja
+mn-097,Lemon Yakult,yakult series,,Rp 10.000/13.000k,"Yakult, perasan lemon segar (Regular/Large)","Non-Kopi, Segar, Asam Manis",Tidak,Tidak,Aman untuk Anak & Remaja
+MN-098,Jajanan Tradisional,DESSERT,,13rb,N/A,"Gurih, Renyah",false,-,Aman untuk Anak & Remaja
+mn-099,  puding rasa (mangga/melon/coklat/strawberry) ,DESERT,Dessert & Kue,5rb,Puding lembut 4 pilihan rasa favorit,"Manis, Lembut / Renyah",false,0,Ramah Anak (Tanpa Kafein & Tidak Pedas)
+MN-100,Puding Karamel ,DESSERT,Dessert & Kue,"Rp 5.000,-",Puding lembut dengan lapisan saus karamel,"manis, lembut / renyah",false,Tidak,Ramah Anak (Tanpa Kafein & Tidak Pedas)
+MN-101,  sago mangga creamy jumbo ,Creamy Jumbo,Minuman Creamy / Non-Kopi,13rb,"Sago mutiara, potongan mangga segar, susu creamy & kuah pink","Non-Kopi, Manis Segar, Creamy Jumbo",No,1,Ramah Anak (Tanpa Kafein & Tidak Pedas)
+mn-102,  es oyen creamy jumbo ,Creamy Jumbo,minuman creamy / non-kopi,10000,"Buah segar, alpukat, santan creamy, mutiara & cincau lembut","Non-Kopi, Manis Segar, Creamy Jumbo",false,0,Aman untuk Anak & Remaja
+MN-103,Es Teler Creamy Jumbo,Creamy Jumbo,,10rb,"Alpukat, nangka/buah segar, santan creamy & cincau lembut","Non-Kopi, Manis Segar, Creamy Jumbo",false,TRUE,Aman untuk Anak & Remaja
+mn-104,Puding Rasa Mangga,dessert,Dessert & Kue,5000,Puding susu lembut rasa mangga,-,0,No,Ramah Anak (Tanpa Kafein & Tidak Pedas)
+mn-105,Puding Rasa Melon,dessert,Dessert & Kue,5rb,Puding susu lembut rasa melon,"Manis, Lembut / Renyah",,0,Ramah Anak (Tanpa Kafein & Tidak Pedas)
+MN-106,Puding Rasa Coklat Susu,DESERT,Dessert & Kue,"Rp 5.000,-",Puding lembut rasa cokelat susu,"Manis, Lembut / Renyah",-,Tidak,Ramah Anak (Tanpa Kafein & Tidak Pedas)
+MN107,  puding rasa strawberry ,dessert,Dessert & Kue,5k,Puding lembut rasa strawberry,"Manis, Lembut / Renyah",0,Tidak,Ramah Anak (Tanpa Kafein & Tidak Pedas)
+MN-108,Nagasari Pisang,DESERT,Dessert & Kue,13rb,Kue tradisional tepung beras isi pisang,,0,0,Aman untuk Anak & Remaja
+mn-109,Kue Lupis Gula Merah,Dessert ,Dessert & Kue,13rb,"Ketan lupis, kelapa parut, siraman gula merah",,,Tidak,Aman untuk Anak & Remaja
+MN110,Kue Bugis Ketan,DESSERT,dessert & kue,13rb,Kue ketan isi unti kelapa manis,"Manis, Lembut / Renyah",No,No,
+MN-111,Ketan Srikaya Pandan,DESERT,Dessert & Kue,13rb,Ketan kukus dengan lapisan srikaya pandan,"Manis, Lembut / Renyah",Tidak,Tidak,Aman untuk Anak & Remaja
+mn-112,  es kopi susu rum butterscotch ,COFFEE,Kopi Susu,16 / 20rb,N/A,-,Ya,best seller,Peringatan: Mengandung Esens Rum (Non-Alkohol); Mengandung Kafein
+mn-112,es kopi susu rum butterscotch ,COFFEE,Kopi Susu,16 / 20rb,N/A,-,Ya,best seller,Peringatan: Mengandung Esens Rum (Non-Alkohol); Mengandung Kafein
+MN113,Es Kopi Rum Caramel,COFFEE,Kopi Susu,16/20,"Espresso, susu UHT, saus karamel, sirup esens rum",,No,-,Peringatan: Mengandung Esens Rum (Non-Alkohol); Mengandung Kafein
+mn114,  rice bowl chicken teriyaki ,MAKANAN BERAT,Makanan Berat,"Rp 20.000,-","Nasi putih, ayam fillet saus teriyaki, wijen, salad","Gurih, Renyah",No,Best Seller,Tersedia untuk Dine-in & Takeaway
+MN-115,Rice Bowl Chicken Katsu,main course,Makanan Berat,20000,"Nasi putih, chicken katsu renyah, saus mayo & teriyaki","Gurih, Renyah",0,TRUE,Ramah Anak (Tanpa Kafein & Tidak Pedas)
+mn-116,Rice Bowl Beef Blackpepper,MAIN COURSE,Makanan Berat,22000,"Nasi putih, irisan daging sapi lada hitam, paprika","Gurih, Renyah",0,,Tersedia untuk Dine-in & Takeaway
+mn-117,Nasi Ayam Crispy Sambal Matah,main course,makanan berat,20rb,"Nasi hangat, ayam crispy, sambal matah segar","Pedas, Gurih, Berbumbu",1,,Tersedia untuk Dine-in & Takeaway
+MN-118,  indomie nyemek spesial tujuan ,MAIN COURSE,,15k,"Mie nyemek kuah kental, telur, sawi, sosis & bakso","Gurih, Renyah",,1,Tersedia untuk Dine-in & Takeaway
+mn-119,Croffle Choco Almond,snack & eatery,,15rb,"Croffle renyah, glaze cokelat, taburan almond","Manis, Lembut / Renyah",No,No,
+MN-120,Toast Coklat Keju,SNACK & EATERY ,cemilan / snack,13000,Roti panggang tebal isi meses cokelat & keju parut,"Gurih, Creamy, Mengenyangkan",-,Tidak,Ramah Anak (Tanpa Kafein & Tidak Pedas)
+MN-121,Pisang Bakar Coklat Keju,SNACK & EATERY ,,14.000,Pisang bakar mentega dengan topping cokelat & keju,"gurih, creamy, mengenyangkan",Tidak,No,Ramah Anak (Tanpa Kafein & Tidak Pedas)
+MN-122,Strawberry Milkshake Ceria,Creamy ,Minuman Creamy / Non-Kopi,12/16,"Susu segar, es krim/sirup strawberry manis","Non-Kopi, Manis Buah, Creamy",No,-,Ramah Anak (Tanpa Kafein & Tidak Pedas)
+mn-123,Kids Bento Nugget & Sosis,MAIN COURSE,Makanan Berat,16k,"Nasi karakter, chicken nugget, sosis goreng, saus tomat","Gurih, Renyah",Baru!,Tidak,Ramah Anak (Tanpa Kafein & Tidak Pedas)
