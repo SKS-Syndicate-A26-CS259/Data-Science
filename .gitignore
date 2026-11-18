@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*-jvsc-*.ipynb
+
+# Environment variables & secrets
+.env
+.env.*
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary / log files
+*.log
+*.tmp
+
+# Data yang tidak di-upload
+data/raw_katalog_menu_tujuan_semata.csv
+
+# data
+Dokumen/
+
+# AI Agent Instructions
+AGENTS.md
